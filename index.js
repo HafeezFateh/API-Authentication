@@ -5,7 +5,6 @@ const app = express();
 const port = 3000;
 const API_URL = "https://secrets-api.appbrewery.com";
 
-//TODO 1: Fill in your values for the 3 types of auth.
 const yourUsername = "Hafeez Reign";
 const yourPassword = "Sheesu";
 const yourAPIKey = "74bd9472-6466-4f36-9b02-0884f353d620";
